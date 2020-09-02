@@ -2,3 +2,4 @@ Nasi Goreng
 1. Menyiapkan bumbu
 2. Menyiapkan nasi
 3. Memasukkan Minyak
+4. Memasukkan Nasi
